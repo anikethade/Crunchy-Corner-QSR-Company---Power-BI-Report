@@ -1,7 +1,7 @@
 # Crunchy-Corner-QSR-Company---Power-BI-Report
-Number of Columns = 37
+**Number of Columns = 37
 Number of Rows = 4,77,873
-Total Count =  1,75,50,600
+Total Count =  1,75,50,600**
 
 **Client Requirements for Power BI Report: Financial Performance Analysis**
 1. Financial Metrics Overview
