@@ -3,7 +3,8 @@
 Number of Rows = 4,77,873
 Total Count =  1,75,50,600**
 
-**Client Requirements for Power BI Report: Financial Performance Analysis**
+**Client Requirements for Power BI Report:
+Financial Performance Analysis**
 1. Financial Metrics Overview
 Display Overall Sales/Net Revenue (NR), Gross Profit (GP), EBITDA, PAT (Net Profit), and SKU Count.
 Include YoY Change for Sales, Gross Profit, EBITDA, and PAT in a visually intuitive manner.
@@ -20,14 +21,16 @@ Show Sales Bifurcation by different Sales Channels.
 Display Volume and Sales Trend by Category.
 Show SKU-Level Turnover segmented by Category.
 Highlight Gross Profit Margin and % GT Count of Product IDs, grouped by Cluster Head.
-Cost Analysis
+
+**Cost Analysis**
 1. Expense Metrics
 Highlight Overall Raw Material (RM) Cost, Marketing Cost, Trade & Discount Cost, Fixed and Variable Costs, S&D Cost, and General & Admin Cost.
 Use a Funnel Chart to depict the distribution of Overall Expenses by various parameters.
 2. Expense Analysis by Segmentation
 Display Total Expenses segmented by Category and Channel.
 Use a Line and Stacked Column Chart to compare Overall Sales and Raw Material Cost.
-Optimization of Business
+
+**Optimization of Business**
 1. Profitability Insights
 Use a Scatter Plot to highlight the Top Categories by Gross Profit and Net Revenue.
 Provide a Dynamic Comparison of Gross Profit and Volume against the Average.
